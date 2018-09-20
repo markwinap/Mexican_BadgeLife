@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/markw/Documents/kicad/Libraries/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name Kicak_Custom_Module)(type KiCad)(uri C:/Users/markw/Documents/GitHub/Mexican_BadgeLife/Mexican_BadgeLife/El_Santo/Kicak_Custom_Module)(options "")(descr ""))
+)
